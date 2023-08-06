@@ -15,4 +15,4 @@ Welcome to my portfolio, a showcase of my [projects](https://github.com/Chuntim0
 
 ### 👋🏻 Connect with Me
 
-[Linkedin](https://www.linkedin.com/in/katiehuangx/](https://www.linkedin.com/in/chun-tim-wong-3718a4248/)https://www.linkedin.com/in/chun-tim-wong-3718a4248/)
+[Linkedin](https://www.linkedin.com/in/chun-tim-wong-3718a4248/)
