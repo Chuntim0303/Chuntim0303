@@ -1,9 +1,11 @@
-### Hi there 👋
+# Tim's Portfolio
 
-<!--
-**Chuntim0303/Chuntim0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am an Actuarial Science student with a strong passion for data science and a keen interest in leveraging analytical skills to drive actionable insights. Eager to transition into the dynamic world of data analysis and machine learning engineering. Seeking opportunities to apply my knowledge and hands-on experience as a Data Analyst and eventually progress towards a career as a Machine Learning Engineer.
 
-Here are some ideas to get you started:
+# Project Portfolio
+Welcome to my portfolio, where I showcase my projects.
+
+# Connect with me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
