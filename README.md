@@ -4,7 +4,7 @@ Hello, I am an Actuarial Science student with a strong passion for data science 
 
 ### 🗂️ Project Portfolio
 
-Welcome to my portfolio, a showcase of my [projects](https://github.com/Chuntim0303/8-Week-SQL-Challenge).
+Welcome to my portfolio, a showcase of my [projects](https://github.com/Chuntim0303/Portfolio/tree/main).
 
 ### 🧰 Hard Skills
 
